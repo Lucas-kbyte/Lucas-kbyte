@@ -1,15 +1,15 @@
-# Sobre mim
+# Sobre mim - About me
 
-## O que eu consigo fazer?
+## O que eu consigo fazer? - What i can do?
 
-- ✅ Eu estou aprendendo Python
+- Eu consigo fazer o basico de Python por que eu ainda estou aprendendo - I can do the basic on Python because im still learning
 
-## Eu ainda quero aprender:
+## Eu ainda quero aprender: - What i still want to learn
 
 - Java
 - Java script
 - Lua
 
-## O que eu uso?
+## O que eu uso? - What i use?
 
-- Python hell yeah
+- Portugol mas eu vou trocar - But i will change it
