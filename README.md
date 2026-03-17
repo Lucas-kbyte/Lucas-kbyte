@@ -13,3 +13,5 @@
 ## O que eu uso? - What i use?
 
 - Portugol mas eu vou trocar - But i will change it
+
+![preview](./diarrhea.jpg)
