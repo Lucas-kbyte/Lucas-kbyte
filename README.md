@@ -1,13 +1,15 @@
-# Primeiro projeto hell yeal
+# Sobre mim
 
-## 🚀 Funcionalidades
+## O que eu consigo fazer?
 
 - ✅ Eu estou aprendendo Python
-- 🔜 Eu ainda quero aprender:
+
+## Eu ainda quero aprender:
+
 - Java
 - Java script
 - Lua
 
-## 🛠️ Tecnologias Utilizadas
+## O que eu uso?
 
 - Python hell yeah
